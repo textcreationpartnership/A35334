@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuckoo, or, The Welsh embassadour's application to the raven in behalf of the mag-pies and jack-dawes</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35334</idno>
+            <idno type="STC">Wing C7458</idno>
+            <idno type="STC">ESTC R40371</idno>
+            <idno type="EEBO-CITATION">18965696</idno>
+            <idno type="OCLC">ocm 18965696</idno>
+            <idno type="VID">108505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108505)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1666:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cuckoo, or, The Welsh embassadour's application to the raven in behalf of the mag-pies and jack-dawes</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Green,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  History --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108505:1" rendition="simple:additions"/>
+            <head>CUCKOO: OR, THE <hi>Welſh</hi> Embaſſadour's Application to the <hi>Raven,</hi> in behalf of the <hi>Mag-pies</hi> and <hi>Jack-dawes.</hi>
+            </head>
+            <p>IT may be admir'd that I ſhould viſit the World before the Roads are cleaner, and my Voyce bet<g ref="char:EOLhyphen"/>ter prepared by eating of raw Eggs: But my Embaſſy being partly forced, and partly neceſſary, I ſhall in the firſt place give the moſt convincing Reaſons for this my ſo ſoon and unexpected Expedition. I was firſt allarm'd in the Britiſh Teri<g ref="char:EOLhyphen"/>tories with the <hi>Bear-baiting,</hi> and af<g ref="char:EOLhyphen"/>terwards awakened with the Chatter<g ref="char:EOLhyphen"/>ing of the <hi>Raven,</hi> who invades the Aethereal Teritories, and, as his cu<g ref="char:EOLhyphen"/>ſtom is, abuſes the Feathered Com<g ref="char:EOLhyphen"/>mon-wealth; ſo that neither the <hi>Mag-pies,</hi> nor <hi>Black-birds</hi> can eſcape his Croakings: Which moves me, as Duty requires, to incourage the Winged Region, whom the Boad<g ref="char:EOLhyphen"/>ings of this unlucky Bird might af<g ref="char:EOLhyphen"/>fright. I that am the Herald of the Spring, and the Declarer of fair Wea<g ref="char:EOLhyphen"/>ther, have rouſed my ſelf out of my Winters ſleep to inform my ſelf of the Truth of this Noiſe made about the Fledged Common-wealth; and though I am of the Feathered Tribe, yet my Name <hi>Cuckoo</hi> is known to many of humane Race. And I muſt aſſert, that in all my Rambles about the World, I have not made my ſelf ſo Obnoxious to Mortals as the Ill preſaging <hi>Raven,</hi> who ſeldom ſpeaks any thing but Death where ere he comes; neither have I ſeen him upon any Country Steeple cringing his Head, and uttering his dartful Ac<g ref="char:EOLhyphen"/>cents, but the Church-wardens looke which way he turn'd his fatal Beak, concluding Miſchief muſt fall upon that place pointed at. This unclean Bird that never returned to the <hi>Ark,</hi> after it found Carcaſs to prey upon, muſt now not only Stigmatize Birds, but the very Lords of the air Common-wealth muſt be ſubject to his unlucky Yawls and Deſcants. And for this reaſon the <hi>Swallow,</hi> in <hi>Aeſop,</hi> took to deſert the Woods, and make
+<pb n="2" facs="tcp:108505:2"/>her Habitation with Men, becauſe the Winged Fraternity would not take her Advice: Even ſo I am re<g ref="char:EOLhyphen"/>ſolved to come near to humane Ha<g ref="char:EOLhyphen"/>bitations, and let the Cities and Towns participate of my well known Echoes, rather than I will aſſociate with <hi>Ra<g ref="char:EOLhyphen"/>vens</hi> and <hi>Dawes,</hi> and <hi>Carren Crowes,</hi> who are of ſo moroſe a Humour they love no Birds that are Gayer than themſelves; thus I find the <hi>Raven</hi> hereby envies the <hi>Mag-pies,</hi> becauſe of their Party-colours. But why the Simily muſt be made to abuſe one of the moſt Reverend Order of Men, is a Thing the <hi>Cuckoo</hi> cant reſolve. Neither did the greateſt Fabuliſt ever I knew, or heard of, make uſe of Metaphors to abuſe the Profeſſion, but the Vices of Men. But neither Birds, nor Beaſts, nor the <hi>Welſh Embaſſadour,</hi> can be ſo blind, as not to perceive that the old Drift is preſ<g ref="char:EOLhyphen"/>ſing on; and before I part with this Obſervation I muſt tell from the <hi>Wallick</hi> Coaſts whoſe Embaſſy I bring, that if at any time the <hi>Pyes,</hi> for juſt Reaſons, ſuſpended their Du<g ref="char:EOLhyphen"/>ty to the Aethereal Prince, yet they never, like the <hi>Jack-dawes,</hi> brought him to the Extremities of Death, to renounce his Vertue and Education, in hopes of Life, and afterwards left him to be Necked by the Buzzards, a Race of fearleſs Creatures that roſe up againſt, and took away the moſt ſacred Head the Sky covered in that Day. And I muſt add this, Mr. <hi>Ra<g ref="char:EOLhyphen"/>ven,</hi> if ſome of the <hi>Mag-pies</hi> have been faulty, as what Bird is there ſo Beauteous, but ſomething may be ſaid to him, I can produce a num<g ref="char:EOLhyphen"/>ber of <hi>Dawes</hi> that have out acted the the <hi>Pyes;</hi> and though one Reverend <hi>Pye</hi> loſt his Head, it was not for his Wronging of any of the Birds, or Compounding his Debts, but he was Craked and Screamed out of it by the Unfortunate and Ominous <hi>Jacks,</hi> thoſe <hi>Royſton Crowes</hi> that carry a Colour different from their Voice, thoſe who envied the greatneſs of his Neſt, the vicinity he had to the <hi>Eagles</hi> Pallace; and it neceſſary to baul him Dead, or elſe 'twould have been difficult to have Unperched the Royal <hi>Eagle,</hi> who, had he been permitted to ſtand, his <hi>Eglets</hi> kept under his Care, 'tis more than poſſi<g ref="char:EOLhyphen"/>ble but our Britiſh Coaſts might have been more Happy and Peaceable and better Settled than for ſome Years they have been. And if it happens that any of that Royal Race was perverted from his Duty, ſurely it is in ſome Senſe owing to thoſe feral Birds that made it their cruel Buſineſs to learn him more wild flights in another Foreſt.</p>
+            <p>This has been told the unhappy <hi>Dawes</hi> and <hi>Buzzards</hi> ſo frequently, that it may give them ſome reaſon to think there are more <hi>Cuckoos</hi> than my ſelf, for this has ſounded above forty Years ſince through all the Groves, Foreſts, Woods, Plains, Mountains, and Vallies, not only on our Brittiſh Coaſts, but it hath rung its Peals through the Univerſe. This evil deal<g ref="char:EOLhyphen"/>ing of the <hi>Dawes,</hi> has doubled the Cape, and incircled the Globe; for this was not done in a corner, and if ſuf<g ref="char:EOLhyphen"/>fering alters the nature of Birds, ſure<g ref="char:EOLhyphen"/>ly then thoſe whom the <hi>Raven</hi> calls <hi>Magpyes,</hi> were the ſweet Tongued <hi>Thruſhes,</hi> the pleaſant <hi>Philom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts</hi> whoſe Charms pierced above the Aethereal Sky, and aſcended to ſe<g ref="char:EOLhyphen"/>cond thoſe Hallelujahs, that the more Noble of the Tongued Quire are im<g ref="char:EOLhyphen"/>ployed in. But how it ſhould come to paſs, that theſe <hi>Dawes</hi> and <hi>Buz<g ref="char:EOLhyphen"/>zards</hi> ſhould ſo alter their Voices on a ſudden, let Mounſieur <hi>Nicolets</hi> Philoſophize in his next Sermon, of the Second Part of the Diſſenters Ju<g ref="char:EOLhyphen"/>bilee. Thus far have I ſpoken Mr. <hi>Ra<g ref="char:EOLhyphen"/>ven,</hi> as a <hi>Cuckoo,</hi> and becauſe my Name is not like yours, yet I muſt tell you I am related to ſome of your
+<pb n="3" facs="tcp:108505:2"/>Family if not to your ſelf; and ſince you aſſume to ſpeak and to write Letters, I that for Thouſand of Years have ſpoke more intelligibly and ſen<g ref="char:EOLhyphen"/>ſibly to humane kind then the <hi>Raven</hi> ever could do, muſt diſcharge my Embaſſy from the Race of <hi>Brute,</hi> or <hi>Brutains</hi> Country, by giving humane Race ſome Cautions of thoſe ambo<g ref="char:EOLhyphen"/>dextrous Animals, that would Snarl a Scandal out againſt their Father, and Print it too, to get a Pound by it. When the Reverend Biſhops, now termed <hi>Magpies,</hi> ſtood in the Gap, and durſt withſtand a Crown'd Head for God's ſake, then what Flocking to ſee them, by the moſt incenſed Party againſt them? What Prayers put up for them, even by their Ene<g ref="char:EOLhyphen"/>mies? Then they were Golden Can<g ref="char:EOLhyphen"/>dleſticks, they were not Princes Metal. If one or two be ſuppoſed to be grown Ruſty, if they be Scowred they will Brighten again, as well as the <hi>Thruſhes</hi> and <hi>Nightingales,</hi> as you call them, that Sang beſt when Briars and Thorns were under their Breaſt. If any of them did their Duty to the then King, by Submiſſion and Obedience, as the Laws of the Lord and of the Land did require, ſo long as their Conſciences were not intrenched upon, 'tis wonder to any conſidering Perſon where the Fault was: But if any of that Reve<g ref="char:EOLhyphen"/>rend Community did Gloſe and Flat<g ref="char:EOLhyphen"/>ter, 'tis admirable how the Birds of other Coulers, the Black, the Brown, the Medley, did cringe and creep. What fulſom Addreſſes were preſen<g ref="char:EOLhyphen"/>ted? What Harangues made? What Promiſes of Duty and Allegiance? and becauſe the King then Regnant diſ<g ref="char:EOLhyphen"/>penced with Oaths, the Yea and Nay Men came in with their Cant, <hi>To thee O King.</hi> The Penſylvanian Prince ſputtered out his Reaſons for repealing of Penal Laws and Teſt. Moſt needy Sectaries undertook that hopefull Work; and would rather put out Reaſon it ſelf, that endeavours the good of Community, and extinguiſh all honeſt Principles, to further the good Work of rooting out Prelacy; an Order that ſtood unſhaken, as I am told, in <hi>Brytayn,</hi> ever ſince Chri<g ref="char:EOLhyphen"/>ſtianity appeared there, except when daſhed with a Cloud in the late Me<g ref="char:EOLhyphen"/>morable Days of Diviſion and Deſtru<g ref="char:EOLhyphen"/>ction. And it ought to be told, by the malecontenſt <hi>Jack-daws,</hi> what the reſt got by getting themſelves Neſted in the Royal Pallaces of Kings or Pre<g ref="char:EOLhyphen"/>lates: Indeed they were ſcarce warm in their Neſts, but the <hi>Buzzards</hi> drove them out again, and the Monarchiſts were for unrooſting them. The <hi>Lion</hi> was Couchant: <hi>Venner</hi>'s call was, who ſhall raiſe him up. The aim of moſt Men tends to advance Worldly In<g ref="char:EOLhyphen"/>tereſt, and not the Purity of Faith, or Sincerity of Morals; there being Vices enough to declaim againſt by the moſt active Satyriſt. The Perſons or Functions of Men may be let alone, none being ſo Mole-eyed, but that though we are devided in our Judg<g ref="char:EOLhyphen"/>ments, yet all Parties make it their buſineſs to agrandize their Intereſts. For which Reaſon I ſhall give you the Senſe of a Welſh Poet, that was a little Prophetick as has been told,</p>
+            <lg>
+               <l>The Engliſh-man both bold and ſtrong,</l>
+               <l>The Flemings ſtout and hardy,</l>
+               <l>The valiant Welſh-men will be firſt,</l>
+               <l>To take the French-men tardy.</l>
+               <l>Our Ships by Sea, our Men by Land,</l>
+               <l>Will pull their Courage down;</l>
+               <l>And make Men know King <hi>William</hi> will keep</l>
+               <l>The Mitre next the Crown.</l>
+            </lg>
+            <p>So that if Men can but unite, if all the fledged Flocks can but agree, there is no doubt but the event will be good unto every one; but if Miſunderſtan<g ref="char:EOLhyphen"/>dings ariſe, as they will aſſuredly ſome<g ref="char:EOLhyphen"/>times in the moſt orderly Communi<g ref="char:EOLhyphen"/>ties, it is not convenient that the <hi>Ra<g ref="char:EOLhyphen"/>vens</hi>
+               <pb n="4" facs="tcp:108505:3"/>ſhould croke againſt the <hi>Pyes,</hi> nor for the <hi>Hawks</hi> to be made Rulers over the <hi>Pidgeons,</hi> nor for the <hi>Jack-dawes,</hi> thoſe waggiſh Birds, to get Poſſeſſion of the Dove-houſes: For if there be not Order and Reſtraint, the <hi>Sparrows</hi> that formerly Lodged under the Eaves, or in the Holes of the Thatch, will ſoon be imboldened and come into the Houſes; I mean, into the Habita<g ref="char:EOLhyphen"/>tions of the better ſort of Birds; and by their unceſſant Chirping, and vene<g ref="char:EOLhyphen"/>rous Treatment of their Mates, in clandeſtine Manner will force them from their antique Dwellings; and there is no way left when they have Poſſeſſion but to lay Nets to catch them: For if you ſhould go to drive them out, they will creep in again, at one Hole or another. For I can<g ref="char:EOLhyphen"/>not get out of this volatile Figure, and 'tis known Hempſeed is good when grown to make Nets as well as Halters: But ſo ineffectual are both theſe uſefull Inſtruments for ſome Amphibious Creatures, that it muſt be difficult to faſten them with either. For the World is ſenſible enough, that Paſſive Obedience is a Document ſwallowed only by the Houſe Fowl, ſuch as are the Barn Door Attendants, and the ſillyeſt of them too will hardly take ſuffering Patiently. For there is not a Welſh <hi>Gooſe</hi> in hur Country but will Cackle before hur dyes; for hur very <hi>Ducks</hi> cry Quack, Quack, afore hur let hur kill hur; as for hur <hi>Woodcocks,</hi> and ſuch long Pills, hur is fain to make Nets to catch hur. But all her Country was renounce the <hi>Oſtrich,</hi> that hur call hur, and the worſt Welſh-man was not call hur ſo; for was once an <hi>Eagle,</hi> and owned by all hur Lords ſo to be. Therefore was hur thought was no Manners to call hur any foul Names; thus was ſpoken as the Senſe of all honeſt <hi>Prittaynes.</hi> Now as to the latter part of hur Embaſſy, I ſhall deliver it in Engliſh, learned ſince I came to <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> That I am come in the Name of all honeſt true hearted <hi>Brytaynes</hi> to admire and reſpect the Reigning <hi>Eagles,</hi> to wiſh them all Happineſs in their lofty Seats; that neither chat<g ref="char:EOLhyphen"/>tering <hi>Pyes,</hi> nor unlucky <hi>Daws,</hi> nor ill-boding <hi>Ravens,</hi> nor fearleſs <hi>Buz<g ref="char:EOLhyphen"/>zards,</hi> may annoy their Majeſtick Seats; that peacefull and long Days may attend them; that Victory may conclude what War has began; that all Heats and Jars, all Animoſities, may be ſtiffled before they break out; that all the Groves, the Foreſts, all the Trees and Woods, may joyfully Entertain the Royal <hi>Eagles;</hi> that under their Dominion all the noble, uſefull Birds may thrive, live, and do well; the Banefull and Deſtructive kept under, by Foreſt Laws; and the innocent <hi>Wren,</hi> and the familiar <hi>Robins,</hi> may be ſo nouriſhed as to Chaunt forth their Dittoes unto them for many Years. And now I have performed my Embaſſy ſo far as I am authorized by my Commiſſion. Farewell <hi>Don Kainophilus,</hi> my Service and Duty to my Lady <hi>Iris.</hi> Down falls the Saſh Windows; Cuckoo, Cuckoo, ſays the Welſh Embaſſadour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Green,</hi> 1691.</p>
+            <pb facs="tcp:108505:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
